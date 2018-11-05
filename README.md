@@ -4,7 +4,7 @@ This is a chess game designed to be played betweeen two people.  The winner will
 # Notes
 To run the program, clone the repository.  Once uploaded, open the project on your computer with your preffered IDE which runs Java.  Select and run the Chess GUI class.  
 
-Find me on [LinkedIn](https://www.linkedin.com/in/corey-moura)
+Find me on [LinkedIn](https://www.linkedin.com/in/corey-moura)   ---->  https://www.linkedin.com/in/corey-moura
 
 
 <br/>
