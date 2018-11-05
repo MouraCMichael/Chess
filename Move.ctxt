@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Move
+comment0.text=\n\ \ @Author\:\ \ \ \ \ \ \ \ \ Corey\ M.\ Moura\n\ \ @Date\:\ \ \ \ \ \ \ \ \ \ \ March\ 1,\ 2018\n\ \ @Professor\:\ \ \ \ \ \ Dr.\ Trafftz\n\ \ @Project\:\ \ \ \ \ \ \ \ Project\ 3\ of\ CS163\:\ Chess\ Game,\ player\ vs\ computer\ \n\ \ @Notes\:\ \ \ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \n/***************************************************************************************************************************************************
+comment1.params=
+comment1.target=Move()
+comment2.params=fromRow\ fromColumn\ toRow\ toColumn
+comment2.target=Move(int,\ int,\ int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

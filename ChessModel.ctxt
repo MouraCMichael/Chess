@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=ChessModel
+comment0.text=\n\ \ @Author\:\ \ \ \ \ \ \ \ \ Corey\ M.\ Moura\n\ \ @Date\:\ \ \ \ \ \ \ \ \ \ \ March\ 1,\ 2018\n\ \ @Professor\:\ \ \ \ \ \ Dr.\ Trafftz\n\ \ @Project\:\ \ \ \ \ \ \ \ Project\ 3\ of\ CS163\:\ Chess\ Game,\ player\ vs\ computer\ \n\ \ \n\ \ @Notes\:\ \ \ \ \ \ \ \ \ \ The\ ChessModel\ class\ implements\ the\ IChessModel\ interface.\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ This\ class\ is\ responsible\ for\ storing\ the\ chessboard\ and\ implementing\ the\ game\ logic.\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Implement\ the\ methods\ from\ the\ IChessModel\ interface.\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \n/***************************************************************************************************************************************************
+comment1.params=
+comment1.target=ChessModel()
+comment10.params=
+comment10.target=Player\ nextPlayer()
+comment2.params=
+comment2.target=boolean\ isComplete()
+comment3.params=move
+comment3.target=boolean\ isValidMove(Move)
+comment4.params=move
+comment4.target=void\ move(Move)
+comment5.params=p
+comment5.target=boolean\ inCheck(Player)
+comment6.params=
+comment6.target=Player\ currentPlayer()
+comment7.params=
+comment7.target=int\ numRows()
+comment8.params=
+comment8.target=int\ numColumns()
+comment9.params=row\ column
+comment9.target=IChessPiece\ pieceAt(int,\ int)
+numComments=11

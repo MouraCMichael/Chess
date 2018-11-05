@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=IChessPiece
+comment0.text=\n\ \ @Author\:\ \ \ \ \ \ \ \ \ Corey\ M.\ Moura\n\ \ @Date\:\ \ \ \ \ \ \ \ \ \ \ March\ 1,\ 2018\n\ \ @Professor\:\ \ \ \ \ \ Dr.\ Trafftz\n\ \ @Project\:\ \ \ \ \ \ \ \ Project\ 3\ of\ CS163\:\ Chess\ Game,\ player\ vs\ computer\ \n\ \ @Notes\:\ \ \ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \n/***************************************************************************************************************************************************
+comment1.params=
+comment1.target=Player\ player()
+comment1.text=\n\ Return\ the\ player\ that\ owns\ this\ piece.\n\n\ @return\ the\ player\ that\ owns\ this\ piece.\n
+comment2.params=
+comment2.target=java.lang.String\ type()
+comment2.text=\n\ Return\ the\ type\ of\ this\ piece\ ("King",\ "Queen",\ "Rook",\ etc.).\ \ Note\:\ \ In\ this\ case\ "type"\ refers\ to\ the\ game\n\ of\ chess,\ not\ the\ type\ of\ the\ Java\ class.\n\n\ @return\ the\ type\ of\ this\ piece\n
+comment3.params=move\ board
+comment3.target=boolean\ isValidMove(Move,\ IChessPiece[][])
+comment3.text=\n\ Returns\ whether\ the\ piece\ at\ location\ {@code\ [move.fromRow,\ move.fromColumn]}\ is\ allowed\ to\ move\ to\ location\n\ {@code\ [move.fromRow,\ move.fromColumn]}.\n\n\ Note\:\ \ Pieces\ don't\ store\ their\ own\ location\ (because\ doing\ so\ would\ be\ redundant).\ \ Therefore,\n\ the\ {@code\ [move.fromRow,\ move.fromColumn]}\ component\ of\ {@code\ move}\ is\ necessary.\n\ {@code\ this}\ object\ must\ be\ the\ piece\ at\ location\ {@code\ [move.fromRow,\ move.fromColumn]}.\n\ (This\ method\ makes\ no\ sense\ otherwise.)\n\n\ @param\ move\ \ a\ {@link\ W18project3.Move}\ object\ describing\ the\ move\ to\ be\ made.\n\ @param\ board\ the\ {@link\ W18project3.IChessBoard}\ in\ which\ this\ piece\ resides.\n\ @return\ {@code\ true}\ if\ the\ proposed\ move\ is\ valid,\ {@code\ false}\ otherwise.\n\ @throws\ IndexOutOfBoundsException\ if\ either\ {@code\ [move.fromRow,\ move.fromColumn]}\ or\ {@code\ [move.toRow,\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ move.toColumn]}\ don't\ represent\ valid\ locations\ on\ the\ board.\n\ @throws\ IllegalArgumentException\ \ if\ {@code\ this}\ object\ isn't\ the\ piece\ at\ location\ {@code\ [move.fromRow,\ move.fromColumn]}.\n
+numComments=4

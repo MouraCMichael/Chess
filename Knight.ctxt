@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Knight
+comment0.text=\n\ \ @Author\:\ \ \ \ \ \ \ \ \ Corey\ M.\ Moura\n\ \ @Date\:\ \ \ \ \ \ \ \ \ \ \ March\ 1,\ 2018\n\ \ @Professor\:\ \ \ \ \ \ Dr.\ Trafftz\n\ \ @Project\:\ \ \ \ \ \ \ \ Project\ 3\ of\ CS163\:\ Chess\ Game,\ player\ vs\ computer\ \n\ \ @Notes\:\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \n/***************************************************************************************************************************************************
+comment1.params=player
+comment1.target=Knight(Player)
+comment2.params=
+comment2.target=java.lang.String\ type()
+comment3.params=move\ board
+comment3.target=boolean\ isValidMove(Move,\ IChessPiece[][])
+numComments=4

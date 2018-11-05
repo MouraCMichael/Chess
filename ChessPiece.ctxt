@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ChessPiece
+comment0.text=\n\ \ @Author\:\ \ \ \ \ \ \ \ \ Corey\ M.\ Moura\n\ \ @Date\:\ \ \ \ \ \ \ \ \ \ \ March\ 1,\ 2018\n\ \ @Professor\:\ \ \ \ \ \ Dr.\ Trafftz\n\ \ @Project\:\ \ \ \ \ \ \ \ Project\ 3\ of\ CS163\:\ Chess\ Game,\ player\ vs\ computer\ \n\ \ \n\ \ @Notes\:\ \ \ \ \ \ \ \ \ \ ChessPiece\ class\ will\ check\ if\ the\ move\ you\ selected\ is\ valid\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \n/***************************************************************************************************************************************************
+comment1.params=player
+comment1.target=ChessPiece(Player)
+comment2.params=
+comment2.target=java.lang.String\ type()
+comment3.params=
+comment3.target=Player\ player()
+comment3.text=Return\ the\ player\ that\ owns\ this\ piece.\ \ *
+comment4.params=move\ board
+comment4.target=boolean\ isValidMove(Move,\ IChessPiece[][])
+comment4.text=This\ method\ is\ invoked\ by\ each\ piece's\ class,\ because\ these\ are\ common,\ valid\ move\ peramiters\ to\ all\ \ *
+numComments=5

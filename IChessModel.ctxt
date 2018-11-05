@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=IChessModel
+comment0.text=\n\ \ @Author\:\ \ \ \ \ \ \ \ \ Corey\ M.\ Moura\n\ \ @Date\:\ \ \ \ \ \ \ \ \ \ \ March\ 1,\ 2018\n\ \ @Professor\:\ \ \ \ \ \ Dr.\ Trafftz\n\ \ @Project\:\ \ \ \ \ \ \ \ Project\ 3\ of\ CS163\:\ Chess\ Game,\ player\ vs\ computer\ \n\ \ @Notes\:\ \ \ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \n/***************************************************************************************************************************************************
+comment1.params=
+comment1.target=boolean\ isComplete()
+comment1.text=\n\ Returns\ whether\ the\ game\ is\ complete.\n\n\ @return\ {@code\ true}\ if\ complete,\ {@code\ false}\ otherwise.\n
+comment2.params=move
+comment2.target=void\ move(Move)
+comment2.text=\n\ Moves\ the\ piece\ from\ location\ {@code\ [move.fromRow,\ move.fromColumn]}\ to\ location\ {@code\ [move.fromRow,\n\ move.fromColumn]}.\n\n\ @param\ move\ a\ {@link\ W18project3.Move}\ object\ describing\ the\ move\ to\ be\ made.\n\ @throws\ IndexOutOfBoundsException\ if\ either\ {@code\ [move.fromRow,\ move.fromColumn]}\ or\ {@code\ [move.toRow,\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ move.toColumn]}\ don't\ represent\ valid\ locations\ on\ the\ board.\n
+comment3.params=p
+comment3.target=boolean\ inCheck(Player)
+comment3.text=\n\ Report\ whether\ the\ current\ player\ p\ is\ in\ check.\n\ @param\ \ p\ {@link\ W18project3.Move}\ the\ Player\ being\ checked\n\ @return\ {@code\ true}\ if\ the\ current\ player\ is\ in\ check,\ {@code\ false}\ otherwise.\n
+comment4.params=
+comment4.target=Player\ currentPlayer()
+comment4.text=\n\ Return\ the\ current\ player.\n\n\ @return\ the\ current\ player\n
+comment5.params=
+comment5.target=int\ numRows()
+comment6.params=
+comment6.target=int\ numColumns()
+comment7.params=row\ column
+comment7.target=IChessPiece\ pieceAt(int,\ int)
+numComments=8
