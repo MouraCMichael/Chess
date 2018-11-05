@@ -13,8 +13,10 @@ USER INSTRUCTIONS:
 
 
 
+
 <p align="center">
-  <img width="432" height=”600” alt="screen shot 2018-11-04 at 10 56 03 pm" src="https://user-images.githubusercontent.com/37875517/47977298-3e94a000-e085-11e8-82ea-c78074c29ffc.png">
+
+<img width="432" height=”600” alt="screen shot 2018-08-02 at 3 04 04 pm" src="https://user-images.githubusercontent.com/39741401/43608194-31d6396e-9666-11e8-9c24-3cb5ec82140e.png">
+
+
 </p>
-
-
