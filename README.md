@@ -2,7 +2,7 @@
 This is a chess game designed to be played betweeen two people.  The winner will not be announced, so the players must know when they have won.
 
 # Notes
-To run the program, clone the repository.  Once uploaded, open the project on your computer with your preffered IDE which runs Java.  Select and run the ConnectFour class.  
+To run the program, clone the repository.  Once uploaded, open the project on your computer with your preffered IDE which runs Java.  Select and run the Chess GUI class.  
 
 Find me on [LinkedIn](www.linkedin.com/in/corey-moura)
 
